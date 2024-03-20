@@ -1,0 +1,68 @@
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+.header {
+  background-color: #333;
+  padding: 20px;
+}
+
+.header__name {
+  color: #fff;
+  margin: 0;
+}
+
+/* Introduction Styles */
+.introduction {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.introduction__text {
+  margin: 0;
+}
+
+/* Skills Styles */
+.skills {
+  margin: 20px 0;
+}
+
+.skills__heading {
+  margin-top: 0;
+}
+
+.skills__list {
+  list-style: none;
+  padding: 0;
+}
+
+.skills__item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Contact Styles */
+.contact {
+  background-color: #333;
+  padding: 20px;
+}
+
+.contact__heading {
+  color: #fff;
+  margin-top: 0;
+}
+
+.contact__list {
+  list-style: none;
+  padding: 0;
+}
+
+.contact__item {
+  color: #fff;
+}
